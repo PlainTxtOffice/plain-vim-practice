@@ -25,9 +25,11 @@ editor for trying commands on practice text, and quizzes, key-combo exercises
 and editing challenges that check what you remember. It needs no account,
 shows no ads, and works offline.
 
-Get it on
+Get it on the
+[App Store](https://apps.apple.com/app/plain-vim-practice/id6838480775) for
+iPhone and iPad, or on
 [Google Play](https://play.google.com/store/apps/details?id=com.plaintxtoffice.plainvimpractice)
-for Android phones and tablets. The iOS app is in App Store review.
+for Android phones and tablets.
 
 ## Features
 
@@ -52,7 +54,7 @@ for Android phones and tablets. The iOS app is in App Store review.
   challenges are in the base plan.
 - Full Access (paid): an optional one-time purchase that opens all 14
   challenges. It is not a subscription and works offline. It is sold through
-  the App Store on iOS (in App Store review) and through Google Play on
+  the App Store on iOS and through Google Play on
   Android.
 - Send a bug report or feature request from inside the app.
 
@@ -79,9 +81,8 @@ The emulator and the challenge list in version 1.0.0 on Android.
 
 | Platform | Download | Notes |
 | --- | --- | --- |
+| iOS | [App Store](https://apps.apple.com/app/plain-vim-practice/id6838480775) | Version 1.0.0. iPhone and iPad, iOS 26 or later. |
 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.plaintxtoffice.plainvimpractice) | Version 1.0.0. Requires Android 8.0 or later. |
-
-The iOS app is in App Store review.
 
 ## User Manual
 

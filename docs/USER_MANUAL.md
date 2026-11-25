@@ -21,7 +21,7 @@ built-in Vim-style emulator.
 
 | Item | Details |
 | --- | --- |
-| Platforms | iOS on iPhone and iPad (in App Store review); Android phones and tablets on Google Play |
+| Platforms | iOS on iPhone and iPad on the App Store; Android phones and tablets on Google Play |
 | Interface | Four tabs: **Home**, **Practice**, **Emulator**, and **Docs** |
 | Version | 1.0.0 on iOS and Android |
 
@@ -71,10 +71,10 @@ this app and contains no Vim code.
 
 ### Get the App
 
-On an Android phone or tablet, install Plain Vim Practice from
+On an iPhone or iPad, install Plain Vim Practice from the
+[App Store](https://apps.apple.com/app/plain-vim-practice/id6838480775).
+On an Android phone or tablet, install it from
 [Google Play](https://play.google.com/store/apps/details?id=com.plaintxtoffice.plainvimpractice).
-The iOS app is in App Store review; this section will give its App Store link
-once it is released.
 
 <!-- Verified from: dev-docs/store_listings/app_store.md [Store Details] -->
 <!-- Verified from: platform/android/app/build.gradle.kts [applicationId, versionName] -->
@@ -454,12 +454,11 @@ rest show **Needs Full Access** until you unlock them.
 
 ### Unlock Full Access
 
-**Full Access** is a paid, optional one-time purchase that opens challenges 4
-to 14. Without it, you have the commands, guides, quizzes, key combos, the
-emulator, and the first three challenges. It is not a subscription, and it
-works offline once bought. It is sold through the App Store on iOS (in App
-Store review) and through Google Play on Android (in development). The store
-shows the price.
+**Full Access** is a paid, optional one-time purchase that opens challenges
+4 to 14. Without it, you have the commands, guides, quizzes, key combos, the
+emulator, and the first three challenges. It is not a subscription, and it works
+offline once bought. It is sold through the App Store on iOS and through Google
+Play on Android (in development). The store shows the price.
 
 <!-- Verified from: platform/android/app/src/main/res/values/strings_emulator.xml [emulator_unlock_intro, emulator_unlock_feature_footer, emulator_unlock_footer] -->
 <!-- Verified from: platform/android/app/src/main/kotlin/com/plaintxtoffice/plainvimpractice/premium/Entitlement.kt [FULL_ACCESS_PRODUCT_ID] -->
