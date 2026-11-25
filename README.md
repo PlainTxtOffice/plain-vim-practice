@@ -62,10 +62,26 @@ purchases.
 
 ## App Screenshot
 
-<!-- Add at least one screenshot per implemented platform from platform/<platform>/assets/screenshots/, with descriptive alt text. -->
-<!-- Label each image with its platform when more than one platform is shown. -->
-<!-- Use centered, linked HTML images with explicit widths: start at 640 px for desktop or 280 px for portrait phones. Preserve proportions and link to the full-size image. -->
-<!-- Follow the screenshot example in the README specification, including its scoped MD033 exception, and check the rendered layout at desktop and narrow widths. -->
+<!-- rumdl-disable MD033 -->
+<p align="center">
+  <a href="platform/android/assets/screenshots/emulator.png">
+    <img src="platform/android/assets/screenshots/emulator.png" alt="Plain Vim Practice on Android: the emulator in Visual Line mode with two lines of practice text selected, above the row of Esc, Ctrl-R and other keys" width="280">
+  </a>
+  <a href="platform/android/assets/screenshots/challenges.png">
+    <img src="platform/android/assets/screenshots/challenges.png" alt="Plain Vim Practice on Android: the Challenges list with each challenge's task and par, and a lock on the challenges that need Full Access" width="280">
+  </a>
+</p>
+<!-- rumdl-enable MD033 -->
+
+The emulator and the challenge list in version 1.0.0 on Android.
+
+## Download
+
+| Platform | Download | Notes |
+| --- | --- | --- |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=com.plaintxtoffice.plainvimpractice) | Version 1.0.0. Requires Android 8.0 or later. |
+
+The iOS app is in App Store review.
 
 ## User Manual
 
